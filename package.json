@@ -1,0 +1,23 @@
+{
+  "name": "smart-app",
+  "version": "0.0.0",
+  "description": "Young developers trying to build a smart app with latest web technologies..!",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lmssrinivas/smart-app.git"
+  },
+  "author": "lmssrinivas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmssrinivas/smart-app/issues"
+  },
+  "homepage": "https://github.com/lmssrinivas/smart-app",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}

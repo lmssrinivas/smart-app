@@ -1,0 +1,34 @@
+{
+  "name": "smart-app",
+  "description": "Young developers trying to build a smart app with latest web technologies..!",
+  "main": "server.js",
+  "authors": [
+    "lmssrinivas"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "smart",
+    "angular",
+    "nodejs",
+    "express",
+    "mongo",
+    "mean",
+    "lmssrinivas"
+  ],
+  "homepage": "https://github.com/lmssrinivas/smart-app",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.7",
+    "bootstrap": "~3.3.6",
+    "angular-ui-router": "~0.3.1"
+  }
+}
