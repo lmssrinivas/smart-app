@@ -4,7 +4,8 @@
   "description": "Young developers trying to build a smart app with latest web technologies..!",
   "main": "server.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "postinstall": "./node_modules/bower/bin/bower install"
   },
   "repository": {
     "type": "git",
@@ -23,7 +24,8 @@
     "body-parser": "^1.15.2",
     "ejs": "^2.4.2",
     "express": "^4.14.0",
-    "serve-favicon": "^2.3.0"
+    "serve-favicon": "^2.3.0",
+    "bower": "1.7.9"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
