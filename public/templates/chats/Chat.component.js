@@ -5,7 +5,7 @@
 angular.module('smart-app')
     .component('smartChat',{
         bindings:{},
-        templateUrl:'./templates/chats/SmartChat.component.html',
+        templateUrl:'./templates/chats/chat.component.html',
         controller:'SmartChat',
         controllerAs:'SmartChat'
     });

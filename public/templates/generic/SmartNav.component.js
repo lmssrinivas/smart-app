@@ -5,7 +5,7 @@
 angular.module('smart-app')
     .component('smartNav',{
         bindings:{},
-        templateUrl:'./templates/generic/navbar.html',
+        templateUrl:'./templates/generic/smartNav.component.html',
         controller:'NavCtrl',
         controllerAs:'NavCtrl'
     });
